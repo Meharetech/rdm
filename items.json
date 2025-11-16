@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Apple 17 black ",
+    "url": "https://www.croma.com/apple-iphone-17-256gb-black-/p/317396",
+    "check_type": "text",
+    "available_indicators": [
+      "Buy Now",
+      "Add to Cart",
+      "Add to Bag"
+    ],
+    "unavailable_indicators": [
+      "Notify Me",
+      "Out of Stock",
+      "Currently unavailable",
+      "Not Available",
+      "Not Available for your pincode",
+      "Not Available at pincode"
+    ]
+  },
+  {
+    "name": "Apple iPhone 17 (256GB, Lavender)",
+    "url": "https://www.croma.com/apple-iphone-17-256gb-lavender-/p/317401",
+    "check_type": "text",
+    "available_indicators": [
+      "Buy Now",
+      "Add to Cart",
+      "Add to Bag"
+    ],
+    "unavailable_indicators": [
+      "Notify Me",
+      "Out of Stock",
+      "Currently unavailable",
+      "Not Available",
+      "Not Available for your pincode",
+      "Not Available at pincode"
+    ]
+  },
+  {
+    "name": "Apple Iphone 17 256gb Sage",
+    "url": "https://www.croma.com/apple-iphone-17-256gb-sage-/p/317403",
+    "check_type": "text",
+    "available_indicators": [
+      "Buy Now",
+      "Add to Cart",
+      "Add to Bag"
+    ],
+    "unavailable_indicators": [
+      "Notify Me",
+      "Out of Stock",
+      "Currently unavailable",
+      "Not Available",
+      "Not Available for your pincode",
+      "Not Available at pincode"
+    ]
+  },
+  {
+    "name": "Apple Iphone 17 256gb White",
+    "url": "https://www.croma.com/apple-iphone-17-256gb-white-/p/317398",
+    "check_type": "text",
+    "available_indicators": [
+      "Buy Now",
+      "Add to Cart",
+      "Add to Bag"
+    ],
+    "unavailable_indicators": [
+      "Notify Me",
+      "Out of Stock",
+      "Currently unavailable",
+      "Not Available",
+      "Not Available for your pincode",
+      "Not Available at pincode"
+    ]
+  }
+]
